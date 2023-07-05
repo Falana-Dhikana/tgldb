@@ -4,12 +4,12 @@ This is a Telegram bot that can download and upload videos from downloadable lin
 
 Features
 
-Download videos from direct links and YouTube links.
-Upload the downloaded videos to the Telegram chat.
-Show download progress with download speed, percentage, and estimated remaining time.
-Error handling for failed download.
-User authentication to restrict bot usage to authorized users.
-Cancelation of ongoing downloads.
+1. Download videos from direct links and YouTube links.
+2. Upload the downloaded videos to the Telegram chat.
+3. Show download progress with download speed, percentage, and estimated remaining time.
+4. Error handling for failed download.
+5. User authentication to restrict bot usage to authorized users.
+6. Cancelation of ongoing downloads.
 
 
 Prerequisites
