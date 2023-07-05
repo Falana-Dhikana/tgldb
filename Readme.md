@@ -7,7 +7,7 @@ Features
 Download videos from direct links and YouTube links.
 Upload the downloaded videos to the Telegram chat.
 Show download progress with download speed, percentage, and estimated remaining time.
-Error handling for failed downloads.
+Error handling for failed download.
 User authentication to restrict bot usage to authorized users.
 Cancelation of ongoing downloads.
 
