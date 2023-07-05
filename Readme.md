@@ -46,12 +46,11 @@ Getting Started
    
 Deploying to Heroku
 
-Sign up for a Heroku account (if you haven't already).
-Create a new Heroku app.
-Connect the Heroku app to your GitHub repository.
-Configure the necessary environment variables:
-Set the TOKEN environment variable to your Telegram bot token.
-(Optional) Set any other required environment variables.
+1. Sign up for a Heroku account (if you haven't already).
+2. Create a new Heroku app.
+3. Connect the Heroku app to your GitHub repository.
+4. Configure the necessary environment variables:
+5. Set the TOKEN environment variable to your Telegram bot token.
 Deploy the Heroku app.
 
 
