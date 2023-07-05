@@ -21,7 +21,7 @@ Required Python packages listed in requirements.txt
 Getting Started
 
 1. Clone the repository: to services like Heroku.
-   git clone https://github.com/your-username/telegram-video-uploader-bot.git
+   git clone link of the repository
 
 2. Install the required packages:
    pip install -r requirements.txt
